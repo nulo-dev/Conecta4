@@ -5,4 +5,4 @@ Podeis modificarlo, publicarlo de nuevo con mejoras, basicamente podeis hacer lo
 
 Cualquier duda sobre algo me podeis contactar por discord: **NULL#0730**
 
-conecta-4,conecta4,conecta 4,conecta 4 java,conecta-4-java,conecta4java
+###### conecta-4,conecta4,conecta 4,conecta 4 java,conecta-4-java,conecta4java
